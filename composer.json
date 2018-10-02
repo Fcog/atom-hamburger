@@ -1,0 +1,12 @@
+{
+    "name": "fcog/hamburger",
+    "description": "Atom element for use with the Lean Theme",
+    "type": "atomic-atom",
+    "authors": [
+        {
+            "name": "Fcog",
+            "email": "fcog111@gmail.com"
+        }
+    ],
+    "require": {}
+}
